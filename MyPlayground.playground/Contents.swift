@@ -34,7 +34,30 @@ var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 //print Seventh variable
 print(mySeventhVariable)
 
+//Assignment #2 Introduction to True and False Class 4 Thursday 1.21.21
+var appState = false
 
+//print() - print function - it prints into the console - all functions have a name and followed by parenthesis ()
+
+print(appState)
+
+//Comparing variables using > (greater than) or < (less than)
+var numberOne = 7
+var numberTwo = 8
+
+//Create a variable that holds the comparison on the two variables we just created
+
+var compare = numberOne > numberTwo
+
+print(compare)
+
+//Part 7: Create two different variables and assign those variables to two different strings
+
+var myEightVariable = "Bubba"
+var myNinthVariable = "Bubba"
+var myComparison = myEightVariable == myNinthVariable
+
+print(myComparison)
 
 
 
