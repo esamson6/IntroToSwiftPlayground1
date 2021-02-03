@@ -21,6 +21,19 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//Part 8 - Create three variables and assign each of them a string.
+var myFourthVariable = "I have a dog."
+
+var myFifthVariable = "He is an American Pitbull."
+
+var mySixthVariable = "His name is Bubba."
+
+//String concatenation
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+//print Seventh variable
+print(mySeventhVariable)
+
 
 
 
